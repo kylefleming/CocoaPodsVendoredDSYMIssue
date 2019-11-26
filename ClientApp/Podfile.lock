@@ -1,0 +1,16 @@
+PODS:
+  - VendoredFramework (0.1.0)
+
+DEPENDENCIES:
+  - VendoredFramework (from `../VendoredFrameworkPod`)
+
+EXTERNAL SOURCES:
+  VendoredFramework:
+    :path: "../VendoredFrameworkPod"
+
+SPEC CHECKSUMS:
+  VendoredFramework: 1e67272e4da2781c9ed5b3a33569a370aec64874
+
+PODFILE CHECKSUM: 1e6cd74ca48828e373d741a71c8375a68944176b
+
+COCOAPODS: 1.8.4
