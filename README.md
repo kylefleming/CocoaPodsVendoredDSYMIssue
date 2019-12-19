@@ -1,5 +1,7 @@
 # CocoaPodsVendoredDSYMIssue
 
+See: https://github.com/CocoaPods/CocoaPods/issues/9419
+
 Run using Make:
 ```sh
 $ make
